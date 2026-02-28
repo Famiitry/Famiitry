@@ -8,20 +8,39 @@
 
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/linux-icon.svg" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/maven-icon.svg" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="55" height="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60" alt="Linux" class="tech-icon" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" alt="Java" class="tech-icon" style="animation-delay: 0.2s;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="60" height="60" alt="Maven" class="tech-icon" style="animation-delay: 0.4s;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" alt="Git" class="tech-icon" style="animation-delay: 0.6s;" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/bash-icon.svg" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" alt="Docker" class="tech-icon" style="animation-delay: 0.8s;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60" alt="GitHub" class="tech-icon" style="animation-delay: 1s;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="60" height="60" alt="Bash" class="tech-icon" style="animation-delay: 1.2s;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="60" height="60" alt="Postman" class="tech-icon" style="animation-delay: 1.4s;" />
 </div>
+
+<style>
+  .tech-icon {
+    margin: 15px;
+    transition: transform 0.3s ease-in-out;
+    animation: float 3s ease-in-out infinite;
+    display: inline-block;
+  }
+
+  .tech-icon:hover {
+    transform: scale(1.2) !important; /* Se hace más grande al pasar el mouse */
+    filter: brightness(1.2);
+  }
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-12px); }
+  }
+</style>
 
 ---
 
