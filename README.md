@@ -1,17 +1,33 @@
-## Hi there 👋
- 
-### Software Engineering
+<!-- ================= HEADER ================= -->
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a&icon_color=e0af68" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a" height="160" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Daniel%20Gualán&textBg=false&fontAlign=50&animation=twinkling&desc=Software%20Engineering&descSize=19&descAlign=50&descAlignY=63&section=header&reversal=false" />
 </p>
+
+---
+
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/linux-icon.svg" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/maven-icon.svg" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="55" height="55" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/bash-icon.svg" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" />
+</div>
 
 ---
 
 # Hello! I'm Daniel Gualán
 
-I am a systems-oriented software engineer focused on operating systems, infrastructure behavior, and disciplined software design.
+I am student software engineer focused on operating systems, infrastructure behavior, and disciplined software design.
 
 My work revolves around understanding how systems behave under real conditions — how processes interact, how networks expose boundaries, and how architectural decisions affect resilience and control.
 
@@ -36,7 +52,7 @@ I am continuously refining fundamentals before narrowing specialization.
 
 [![Streak Stats](https://streak-stats.demolab.com?user=Famiitry&theme=tokyonight&background=1a1b26&border=1a1b26&stroke=c0caf5&ring=7aa2f7&fire=f7768e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7aa2f7&sideLabels=7aa2f7&dates=c0caf5)](https://git.io/streak-stats)
 
----
+
 
 ## Tools & Technical Environment
 
