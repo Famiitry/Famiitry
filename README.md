@@ -48,14 +48,6 @@ I am continuously refining fundamentals before narrowing specialization.
 
 ---
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Famiitry&count_private=true&show_icons=true&theme=tokyonight&title_color=7aa2f7&icon_color=f7768e&text_color=c0caf5&bg_color=1a1b26&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Daniel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Famiitry&layout=compact&theme=tokyonight&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Streak Stats](https://streak-stats.demolab.com?user=Famiitry&theme=tokyonight&background=1a1b26&border=1a1b26&stroke=c0caf5&ring=7aa2f7&fire=f7768e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7aa2f7&sideLabels=7aa2f7&dates=c0caf5)](https://git.io/streak-stats)
-
-
-
 ## Tools & Technical Environment
 
 <div align="center">
