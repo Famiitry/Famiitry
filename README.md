@@ -23,24 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="60" height="60" alt="Postman" class="tech-icon" style="animation-delay: 1.4s;" />
 </div>
 
-<style>
-  .tech-icon {
-    margin: 15px;
-    transition: transform 0.3s ease-in-out;
-    animation: float 3s ease-in-out infinite;
-    display: inline-block;
-  }
 
-  .tech-icon:hover {
-    transform: scale(1.2) !important; /* Se hace más grande al pasar el mouse */
-    filter: brightness(1.2);
-  }
-
-  @keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-12px); }
-  }
-</style>
 
 ---
 
