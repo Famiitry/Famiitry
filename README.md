@@ -48,6 +48,9 @@ I am continuously refining fundamentals before narrowing specialization.
 
 ---
 
+Hay que agregar un "Actividad reciente"
+a.a.a.a.a.a.
+
 ## Tools & Technical Environment
 
 <div align="center">
