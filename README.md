@@ -48,9 +48,9 @@ I am continuously refining fundamentals before narrowing specialization.
 
 ---
 
-Hay que agregar un "Actividad reciente"
-a.a.a.a.a.a.
-
+### :zap: Actividad Reciente
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 ## Tools & Technical Environment
 
 <div align="center">
