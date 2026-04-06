@@ -50,14 +50,14 @@ I am continuously refining fundamentals before narrowing specialization.
 
 ### :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Famiitry/repDocker](https://github.com/Famiitry/repDocker)<br>
+1. ⬆️ Pushed undefined commit(s) to [Famiitry/miRepo](https://github.com/Famiitry/miRepo)<br>
 2. ⬆️ Pushed undefined commit(s) to [Famiitry/repDocker](https://github.com/Famiitry/repDocker)<br>
 3. ⬆️ Pushed undefined commit(s) to [Famiitry/repDocker](https://github.com/Famiitry/repDocker)<br>
-4. ⭐ Starred [platzi/curso-de-docker-fundamentos](https://github.com/platzi/curso-de-docker-fundamentos)<br>
-5. ⬆️ Pushed undefined commit(s) to [Famiitry/miRepo](https://github.com/Famiitry/miRepo)<br>
+4. ⬆️ Pushed undefined commit(s) to [Famiitry/repDocker](https://github.com/Famiitry/repDocker)<br>
+5. ⭐ Starred [platzi/curso-de-docker-fundamentos](https://github.com/platzi/curso-de-docker-fundamentos)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 6th, 2026, 1:59:39 AM
+Last Updated: Monday, April 6th, 2026, 12:58:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## Tools & Technical Environment
 
