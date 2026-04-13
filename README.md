@@ -50,14 +50,14 @@ I am continuously refining fundamentals before narrowing specialization.
 
 ### :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
-2. ⬆️ Pushed undefined commit(s) to [Famiitry/miRepo](https://github.com/Famiitry/miRepo)<br>
+1. ⬆️ Pushed undefined commit(s) to [Famiitry/miRepo](https://github.com/Famiitry/miRepo)<br>
+2. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
 3. ⬆️ Pushed undefined commit(s) to [Famiitry/miRepo](https://github.com/Famiitry/miRepo)<br>
 4. ⬆️ Pushed undefined commit(s) to [Famiitry/miRepo](https://github.com/Famiitry/miRepo)<br>
 5. ⬆️ Pushed undefined commit(s) to [Famiitry/miRepo](https://github.com/Famiitry/miRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 13th, 2026, 2:07:26 AM
+Last Updated: Monday, April 13th, 2026, 1:14:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## Tools & Technical Environment
 
