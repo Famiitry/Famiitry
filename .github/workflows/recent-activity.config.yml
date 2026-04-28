@@ -1,0 +1,4 @@
+max_lines: 5
+commit_message: false
+issue: false
+pull_request: false

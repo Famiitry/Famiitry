@@ -23,7 +23,7 @@
 
 <br>
 
-I'm a student software engineer focused on operating systems, infrastructure behavior, and disciplined software design.
+I am a student software engineer focused on operating systems, infrastructure behavior, and disciplined software design.
 
 My work revolves around understanding how systems behave under real conditions how processes interact, how networks expose boundaries, and how architectural decisions affect resilience and control. I'm particularly interested in reproducible environments, controlled deployments, and reducing unnecessary complexity across systems.
 
@@ -133,7 +133,8 @@ philosophy = "Refining fundamentals before narrowing specialization."
 <div align="center">
 
 ### ◈ &nbsp; A C T I V I T Y &nbsp; C O R E &nbsp; ◈
-
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Famiitry&theme=tokyo-night&bg_color=0f0c29&color=c084fc&line=7c3aed&point=a78bfa&area=true&hide_border=true&area_color=302b63" width="100%" />
