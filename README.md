@@ -134,11 +134,11 @@ philosophy = "Refining fundamentals before narrowing specialization."
 
 ### ◈ &nbsp; A C T I V I T Y &nbsp; C O R E &nbsp; ◈
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kmjones1979/tic-tac-toe-solana](https://github.com/kmjones1979/tic-tac-toe-solana)<br>
-2. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
-3. ⬆️ Pushed undefined commit(s) to [Famiitry/TurismoPorCuenca](https://github.com/Famiitry/TurismoPorCuenca)<br>
-4. ⬆️ Pushed undefined commit(s) to [Famiitry/Famiitry](https://github.com/Famiitry/Famiitry)<br>
-5. ⬆️ Pushed undefined commit(s) to [Famiitry/Famiitry](https://github.com/Famiitry/Famiitry)<br>
+1. 👍 Approved [#8](https://github.com/yanditv/credia/pull/8#pullrequestreview-4256026987) in [yanditv/credia](https://github.com/yanditv/credia)<br>
+2. 🔴 Requested 3 change(s) for [#8](https://github.com/yanditv/credia/pull/8#pullrequestreview-4256003061) in [yanditv/credia](https://github.com/yanditv/credia)<br>
+3. 🤝 Became collaborator on [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
+4. 💬 Commented on [#4](https://github.com/yanditv/credia/pull/4#issuecomment-4408870181) in [yanditv/credia](https://github.com/yanditv/credia)<br>
+5. ⬆️ Pushed undefined commit(s) to [yanditv/credia](https://github.com/yanditv/credia)<br>
 <!--RECENT_ACTIVITY:end-->
 <br>
 
