@@ -134,10 +134,10 @@ philosophy = "Refining fundamentals before narrowing specialization."
 
 ### ◈ &nbsp; A C T I V I T Y &nbsp; C O R E &nbsp; ◈
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#8](https://github.com/yanditv/credia/pull/8#pullrequestreview-4256026987) in [yanditv/credia](https://github.com/yanditv/credia)<br>
-2. 🔴 Requested 3 change(s) for [#8](https://github.com/yanditv/credia/pull/8#pullrequestreview-4256003061) in [yanditv/credia](https://github.com/yanditv/credia)<br>
-3. 🤝 Became collaborator on [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
-4. 💬 Commented on [#4](https://github.com/yanditv/credia/pull/4#issuecomment-4408870181) in [yanditv/credia](https://github.com/yanditv/credia)<br>
+1. ⬆️ Pushed undefined commit(s) to [yanditv/credia](https://github.com/yanditv/credia)<br>
+2. 👍 Approved [#12](https://github.com/yanditv/credia/pull/12#pullrequestreview-4256846103) in [yanditv/credia](https://github.com/yanditv/credia)<br>
+3. 🔴 Requested 2 change(s) for [#12](https://github.com/yanditv/credia/pull/12#pullrequestreview-4256817944) in [yanditv/credia](https://github.com/yanditv/credia)<br>
+4. 💪 Opened PR [#11](undefined) in [yanditv/credia](https://github.com/yanditv/credia)<br>
 5. ⬆️ Pushed undefined commit(s) to [yanditv/credia](https://github.com/yanditv/credia)<br>
 <!--RECENT_ACTIVITY:end-->
 <br>
