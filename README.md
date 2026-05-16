@@ -134,11 +134,11 @@ philosophy = "Refining fundamentals before narrowing specialization."
 
 ### ◈ &nbsp; A C T I V I T Y &nbsp; C O R E &nbsp; ◈
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
-2. ⬆️ Pushed undefined commit(s) to [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
-3. 💬 Commented on [#9](https://github.com/sairdefut/Quingeo/pull/9#issuecomment-4455031473) in [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
+1. ⬆️ Pushed undefined commit(s) to [Famiitry/proyecto-reto](https://github.com/Famiitry/proyecto-reto)<br>
+2. ⬆️ Pushed undefined commit(s) to [Famiitry/sajada](https://github.com/Famiitry/sajada)<br>
+3. ⬆️ Pushed undefined commit(s) to [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
 4. ⬆️ Pushed undefined commit(s) to [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
-5. 🔴 Requested 1 change(s) for [#9](https://github.com/sairdefut/Quingeo/pull/9#pullrequestreview-4293084538) in [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
+5. 💬 Commented on [#9](https://github.com/sairdefut/Quingeo/pull/9#issuecomment-4455031473) in [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
 <!--RECENT_ACTIVITY:end-->
 <br>
 
