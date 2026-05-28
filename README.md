@@ -134,11 +134,11 @@ philosophy = "Refining fundamentals before narrowing specialization."
 
 ### ◈ &nbsp; A C T I V I T Y &nbsp; C O R E &nbsp; ◈
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#21](https://github.com/sairdefut/Quingeo/pull/21#issuecomment-4548552337) in [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
-2. 💪 Opened PR [#21](undefined) in [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
-3. ⬆️ Pushed undefined commit(s) to [Famiitry/proyecto-reto](https://github.com/Famiitry/proyecto-reto)<br>
+1. ⬆️ Pushed undefined commit(s) to [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
+2. 💬 Commented on [#21](https://github.com/sairdefut/Quingeo/pull/21#issuecomment-4548552337) in [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
+3. 💪 Opened PR [#21](undefined) in [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
 4. ⬆️ Pushed undefined commit(s) to [Famiitry/proyecto-reto](https://github.com/Famiitry/proyecto-reto)<br>
-5. ⬆️ Pushed undefined commit(s) to [Famiitry/sajada](https://github.com/Famiitry/sajada)<br>
+5. ⬆️ Pushed undefined commit(s) to [Famiitry/proyecto-reto](https://github.com/Famiitry/proyecto-reto)<br>
 <!--RECENT_ACTIVITY:end-->
 <br>
 
