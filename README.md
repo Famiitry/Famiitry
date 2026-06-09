@@ -134,11 +134,11 @@ philosophy = "Refining fundamentals before narrowing specialization."
 
 ### ◈ &nbsp; A C T I V I T Y &nbsp; C O R E &nbsp; ◈
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
-2. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
-3. ❌ Closed PR [#11](undefined) in [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
-4. 💬 Commented on [#11](https://github.com/sairdefut/Quingeo/pull/11#issuecomment-4637374147) in [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
-5. ❌ Closed PR [#13](undefined) in [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
+1. ⬆️ Pushed undefined commit(s) to [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
+2. ⬆️ Pushed undefined commit(s) to [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
+3. ⬆️ Pushed undefined commit(s) to [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
+4. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
+5. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
 <!--RECENT_ACTIVITY:end-->
 <br>
 
