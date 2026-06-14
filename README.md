@@ -134,10 +134,10 @@ philosophy = "Refining fundamentals before narrowing specialization."
 
 ### ◈ &nbsp; A C T I V I T Y &nbsp; C O R E &nbsp; ◈
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Famiitry/Herramientas-node-api](https://github.com/Famiitry/Herramientas-node-api)<br>
-2. ⭐ Starred [jonnathanguaman/JodasaReserveishon](https://github.com/jonnathanguaman/JodasaReserveishon)<br>
-3. 🤝 Became collaborator on [jonnathanguaman/JodasaReserveishon](https://github.com/jonnathanguaman/JodasaReserveishon)<br>
-4. ⬆️ Pushed undefined commit(s) to [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
+1. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
+2. ⬆️ Pushed undefined commit(s) to [Famiitry/Herramientas-node-api](https://github.com/Famiitry/Herramientas-node-api)<br>
+3. ⭐ Starred [jonnathanguaman/JodasaReserveishon](https://github.com/jonnathanguaman/JodasaReserveishon)<br>
+4. 🤝 Became collaborator on [jonnathanguaman/JodasaReserveishon](https://github.com/jonnathanguaman/JodasaReserveishon)<br>
 5. ⬆️ Pushed undefined commit(s) to [sairdefut/Quingeo](https://github.com/sairdefut/Quingeo)<br>
 <!--RECENT_ACTIVITY:end-->
 <br>
