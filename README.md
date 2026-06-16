@@ -134,11 +134,11 @@ philosophy = "Refining fundamentals before narrowing specialization."
 
 ### ◈ &nbsp; A C T I V I T Y &nbsp; C O R E &nbsp; ◈
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Famiitry/TurismoPorCuenca](https://github.com/Famiitry/TurismoPorCuenca)<br>
-2. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
-3. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
-4. ⬆️ Pushed undefined commit(s) to [Famiitry/Herramientas-node-api](https://github.com/Famiitry/Herramientas-node-api)<br>
-5. ⭐ Starred [jonnathanguaman/JodasaReserveishon](https://github.com/jonnathanguaman/JodasaReserveishon)<br>
+1. ⬆️ Pushed undefined commit(s) to [Famiitry/Python_Curse_Data_Structure](https://github.com/Famiitry/Python_Curse_Data_Structure)<br>
+2. ⬆️ Pushed undefined commit(s) to [Famiitry/miTercerRepo](https://github.com/Famiitry/miTercerRepo)<br>
+3. ⬆️ Pushed undefined commit(s) to [Famiitry/TurismoPorCuenca](https://github.com/Famiitry/TurismoPorCuenca)<br>
+4. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
+5. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
 <!--RECENT_ACTIVITY:end-->
 <br>
 
