@@ -135,10 +135,10 @@ philosophy = "Refining fundamentals before narrowing specialization."
 ### ◈ &nbsp; A C T I V I T Y &nbsp; C O R E &nbsp; ◈
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
-2. ⬆️ Pushed undefined commit(s) to [Famiitry/practica2](https://github.com/Famiitry/practica2)<br>
-3. ⬆️ Pushed undefined commit(s) to [Famiitry/practica2](https://github.com/Famiitry/practica2)<br>
+2. ⭐ Starred [yanditv/pelis_app](https://github.com/yanditv/pelis_app)<br>
+3. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
 4. ⬆️ Pushed undefined commit(s) to [Famiitry/practica2](https://github.com/Famiitry/practica2)<br>
-5. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
+5. ⬆️ Pushed undefined commit(s) to [Famiitry/practica2](https://github.com/Famiitry/practica2)<br>
 <!--RECENT_ACTIVITY:end-->
 <br>
 
