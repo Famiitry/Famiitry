@@ -134,11 +134,11 @@ philosophy = "Refining fundamentals before narrowing specialization."
 
 ### ◈ &nbsp; A C T I V I T Y &nbsp; C O R E &nbsp; ◈
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [yanditv/gad_checa_gestion_cementerio](https://github.com/yanditv/gad_checa_gestion_cementerio)<br>
-2. ⬆️ Pushed undefined commit(s) to [yanditv/gad_checa_gestion_cementerio](https://github.com/yanditv/gad_checa_gestion_cementerio)<br>
-3. 👍 Approved [#62](https://github.com/yanditv/gad_checa_gestion_cementerio/pull/62#pullrequestreview-4790212092) in [yanditv/gad_checa_gestion_cementerio](https://github.com/yanditv/gad_checa_gestion_cementerio)<br>
+1. ⬆️ Pushed undefined commit(s) to [Famiitry/miRepo2](https://github.com/Famiitry/miRepo2)<br>
+2. 🔱 Forked [Famiitry/miRepo2](https://github.com/Famiitry/miRepo2) from [Lokzwery/miRepo2](https://github.com/Lokzwery/miRepo2)<br>
+3. ⬆️ Pushed undefined commit(s) to [yanditv/gad_checa_gestion_cementerio](https://github.com/yanditv/gad_checa_gestion_cementerio)<br>
 4. ⬆️ Pushed undefined commit(s) to [yanditv/gad_checa_gestion_cementerio](https://github.com/yanditv/gad_checa_gestion_cementerio)<br>
-5. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
+5. 👍 Approved [#62](https://github.com/yanditv/gad_checa_gestion_cementerio/pull/62#pullrequestreview-4790212092) in [yanditv/gad_checa_gestion_cementerio](https://github.com/yanditv/gad_checa_gestion_cementerio)<br>
 <!--RECENT_ACTIVITY:end-->
 <br>
 
