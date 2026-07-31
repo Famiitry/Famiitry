@@ -135,10 +135,10 @@ philosophy = "Refining fundamentals before narrowing specialization."
 ### ◈ &nbsp; A C T I V I T Y &nbsp; C O R E &nbsp; ◈
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
-2. ⬆️ Pushed undefined commit(s) to [Famiitry/miRepo2](https://github.com/Famiitry/miRepo2)<br>
+2. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
 3. ⬆️ Pushed undefined commit(s) to [Famiitry/miRepo2](https://github.com/Famiitry/miRepo2)<br>
-4. 🔱 Forked [Famiitry/miRepo2](https://github.com/Famiitry/miRepo2) from [Lokzwery/miRepo2](https://github.com/Lokzwery/miRepo2)<br>
-5. ⬆️ Pushed undefined commit(s) to [yanditv/gad_checa_gestion_cementerio](https://github.com/yanditv/gad_checa_gestion_cementerio)<br>
+4. ⬆️ Pushed undefined commit(s) to [Famiitry/miRepo2](https://github.com/Famiitry/miRepo2)<br>
+5. 🔱 Forked [Famiitry/miRepo2](https://github.com/Famiitry/miRepo2) from [Lokzwery/miRepo2](https://github.com/Lokzwery/miRepo2)<br>
 <!--RECENT_ACTIVITY:end-->
 <br>
 
