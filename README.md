@@ -137,7 +137,7 @@ philosophy = "Refining fundamentals before narrowing specialization."
 1. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
 2. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
 3. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
-4. ⬆️ Pushed undefined commit(s) to [Famiitry/miRepo2](https://github.com/Famiitry/miRepo2)<br>
+4. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
 5. ⬆️ Pushed undefined commit(s) to [Famiitry/miRepo2](https://github.com/Famiitry/miRepo2)<br>
 <!--RECENT_ACTIVITY:end-->
 <br>
