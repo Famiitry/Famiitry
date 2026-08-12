@@ -135,9 +135,9 @@ philosophy = "Refining fundamentals before narrowing specialization."
 ### ◈ &nbsp; A C T I V I T Y &nbsp; C O R E &nbsp; ◈
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
-2. ⭐ Starred [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX)<br>
-3. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)<br>
-4. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
+2. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
+3. ⭐ Starred [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX)<br>
+4. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)<br>
 5. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
 <!--RECENT_ACTIVITY:end-->
 <br>
