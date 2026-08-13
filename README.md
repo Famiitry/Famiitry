@@ -1,178 +1,134 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=280&text=Daniel%20Gualán&fontColor=ffffff&fontSize=60&animation=fadeIn&color=0:0f0c29,100:302b63" width="100%" />
+<img src="https://raw.githubusercontent.com/Famiitry/Famiitry/main/matrix-banner.svg" width="100%" />
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=E50914&background=050505&center=true&vCenter=true&width=600&lines=root%40daniel%3A~%24+whoami;compiling+systems...+%5BOK%5D;connection+secure" />
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=c084fc&center=true&vCenter=true&width=600&lines=Systems+Thinking;Infrastructure+Engineering;Network+Analysis;Controlled+Architectures"/>
+<br>
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=800&color=c084fc&center=true&vCenter=true&multiline=false&random=false&width=620&height=42&lines=Operating+Systems+Internals;Container+Isolation+Model+%7C+Docker;TCP%2FIP+%26+Network+Architecture;Structured+Build+Lifecycles+%7C+Maven;Controlled+CI%2FCD+Pipelines;Observability+%26+Traceability;Least+Privilege+%7C+Attack+Surface+Reduction;Infrastructure+is+governance+of+system+behavior." />
-
-</div>
-
-<div align="center">
-
-### ◈ &nbsp; A B O U T &nbsp; ◈
+<a href="https://www.linkedin.com/in/daniel-gualan-77ab81352/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-050505?style=for-the-badge&logo=linkedin&logoColor=F5F5F5&labelColor=050505" height="32"/></a>
+<a href="mailto:daniel.gl97@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-TRANSMIT-050505?style=for-the-badge&logo=protonmail&logoColor=F5F5F5&labelColor=050505" height="32"/></a>
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-050505?style=for-the-badge&labelColor=050505&color=E50914" height="32"/>
 
 </div>
 
 <br>
 
-I am a student software engineer focused on operating systems, infrastructure behavior, and disciplined software design.
+## `> cat about.txt`
 
-My work revolves around understanding how systems behave under real conditions how processes interact, how networks expose boundaries, and how architectural decisions affect resilience and control. I'm particularly interested in reproducible environments, controlled deployments, and reducing unnecessary complexity across systems.
+```bash
+$ decrypting profile...
+
+I'm a software engineering student building production-shaped systems —
+REST APIs, offline-sync clinical platforms, and hardware-connected apps —
+focused on backend architecture, data integrity, and secure design.
+
+Currently deepening: OS internals, networking, containerization.
+Long-term target: cybersecurity, defense/government sector, Germany.
+
+$ status: open to freelance contracts AND full-time roles
+```
+
+<br>
+
+## `> ls ./featured_work/`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```
+[ PROJECT_01 ]
+```
+### Quingeo HCE
+Clinical records system built for real-world unreliable connectivity — works offline, syncs when back online.
+
+`react` `typescript` `spring-boot` `mysql` `indexeddb`
+
+Built with a team; JWT-based security hardening, C4 architecture modeling, Docker Compose orchestration.
+
+</td>
+<td width="50%" valign="top">
+
+```
+[ PROJECT_02 ]
+```
+### HidroByte
+Hydration-tracking app pairing a mobile client with an Arduino-based hardware sensor for automatic intake logging.
+
+`kotlin` `android` `arduino`
+
+Daily/monthly/yearly tracking, interactive stats, smart reminders, light/dark theming.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `> grep -r "skills" ./system/`
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=openjdk&logoColor=F5F5F5)
+![TypeScript](https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript&logoColor=F5F5F5)
+![Kotlin](https://img.shields.io/badge/Kotlin-050505?style=for-the-badge&logo=kotlin&logoColor=F5F5F5)
+![Spring](https://img.shields.io/badge/Spring%20Boot-050505?style=for-the-badge&logo=springboot&logoColor=F5F5F5)
+![NestJS](https://img.shields.io/badge/NestJS-050505?style=for-the-badge&logo=nestjs&logoColor=F5F5F5)
+![.NET](https://img.shields.io/badge/.NET%20Core-050505?style=for-the-badge&logo=dotnet&logoColor=F5F5F5)
+![React](https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react&logoColor=F5F5F5)
+![Next.js](https://img.shields.io/badge/Next.js-050505?style=for-the-badge&logo=nextdotjs&logoColor=F5F5F5)
+![Android](https://img.shields.io/badge/Android-050505?style=for-the-badge&logo=android&logoColor=F5F5F5)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&logo=postgresql&logoColor=F5F5F5)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-050505?style=for-the-badge&logo=microsoftsqlserver&logoColor=F5F5F5)
+![Docker](https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=F5F5F5)
+![Linux](https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=F5F5F5)
+![Git](https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=F5F5F5)
+
+</div>
+
+<br>
+
+## `> tail -f activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Famiitry&show_icons=true&theme=react&hide_border=true&bg_color=050505&title_color=E50914&icon_color=F5F5F5&text_color=F5F5F5&ring_color=E50914&count_private=true&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Famiitry&layout=compact&theme=react&hide_border=true&bg_color=050505&title_color=E50914&text_color=F5F5F5&langs_count=6" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Famiitry&theme=react&hide_border=true&background=050505&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=8a8a8a" width="480" />
+
+</div>
+
+<br>
+
+<!-- Snake contribution animation: requires a one-time GitHub Actions setup, see note below -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Famiitry/Famiitry/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation loading — see setup note"/>
+
+</div>
 
 <br>
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║              ENGINEERING PHILOSOPHY                      ║
-║                                                          ║
-║   > Understand before modifying                          ║
-║   > Isolate before integrating                           ║
-║   > Automate with intention                              ║
-║   > Design for controlled behavior                       ║
-║                                                          ║
-║   Infrastructure is not only deployment —                ║
-║   it is governance of system behavior.                   ║
-╚══════════════════════════════════════════════════════════╝
+> establishing_contact...
+> open_channels: [ freelance ] [ full-time ] [ security-focused_roles ]
 ```
 
-</div>
-
----
-
-<div align="center">
-
-### ◈ &nbsp; C U R R E N T L Y &nbsp; D E E P E N I N G &nbsp; ◈
-
-</div>
-
-<br>
-
-```python
-current_focus = {
-    "Operating Systems"   : ["Process model", "Memory management", "Syscalls"],
-    "Computer Networks"   : ["TCP/IP stack", "Segmentation logic", "Packet flow"],
-    "Architecture"        : ["System behavior modeling", "Resilience patterns"],
-    "Build Systems"       : ["Maven lifecycle", "Reproducible environments"],
-    "Containers"          : ["Docker isolation", "Namespaces & cgroups"],
-    "Observability"       : ["Tracing", "Controlled CI/CD pipelines"],
-}
-
-philosophy = "Refining fundamentals before narrowing specialization."
-```
-
----
-
-<div align="center">
-
-### ◈ &nbsp; T E C H &nbsp; M A T R I X &nbsp; ◈
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=linux,java,maven,bash,docker,git,github,postman&theme=dark&perline=8)](https://skillicons.dev)
-
-<br>
-
-![OS Internals](https://img.shields.io/badge/OS%20Internals-Process%20%26%20Memory%20Model-0f0c29?style=for-the-badge&labelColor=302b63&color=7c3aed&logo=linux&logoColor=c084fc)
-![Networking](https://img.shields.io/badge/Networking-TCP%2FIP%20%26%20Segmentation-0f0c29?style=for-the-badge&labelColor=302b63&color=4f46e5&logo=cloudflare&logoColor=818cf8)
-![Containers](https://img.shields.io/badge/Docker-Isolation%20Model-0f0c29?style=for-the-badge&labelColor=302b63&color=6d28d9&logo=docker&logoColor=a78bfa)
-
-<br>
-
-![Java](https://img.shields.io/badge/Java-Structured%20Code-0f0c29?style=for-the-badge&labelColor=302b63&color=7c3aed&logo=openjdk&logoColor=c084fc)
-![Maven](https://img.shields.io/badge/Maven-Build%20Lifecycle-0f0c29?style=for-the-badge&labelColor=302b63&color=4f46e5&logo=apachemaven&logoColor=818cf8)
-![Git](https://img.shields.io/badge/Git-Version%20Control-0f0c29?style=for-the-badge&labelColor=302b63&color=6d28d9&logo=git&logoColor=a78bfa)
-
-<br>
-
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Controlled%20Pipelines-0f0c29?style=for-the-badge&labelColor=302b63&color=7c3aed&logo=githubactions&logoColor=c084fc)
-![Observability](https://img.shields.io/badge/Observability-Traceability-0f0c29?style=for-the-badge&labelColor=302b63&color=4f46e5&logoColor=818cf8)
-![Security](https://img.shields.io/badge/Access%20Control-Least%20Privilege-0f0c29?style=for-the-badge&labelColor=302b63&color=6d28d9&logoColor=a78bfa)
-
-</div>
-
----
-
-<div align="center">
-
-### ◈ &nbsp; D A S H B O A R D &nbsp; ◈
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Famiitry&theme=tokyonight" width="100%" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Famiitry&theme=tokyonight" height="180"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Famiitry&theme=tokyonight" height="180"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Famiitry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=c084fc&icon_color=a78bfa&text_color=818cf8&ring_color=7c3aed&count_private=true&include_all_commits=true" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Famiitry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=c084fc&text_color=818cf8&langs_count=6" height="165" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Famiitry&theme=tokyonight&hide_border=true&background=0f0c29&ring=7c3aed&fire=c084fc&currStreakLabel=a78bfa&sideLabels=818cf8&currStreakNum=c084fc&sideNums=818cf8&dates=4f46e5" width="480" />
-
-</div>
-
----
-
-<div align="center">
-
-### ◈ &nbsp; A C T I V I T Y &nbsp; C O R E &nbsp; ◈
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
-2. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
-3. ⭐ Starred [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX)<br>
-4. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)<br>
-5. ⬆️ Pushed undefined commit(s) to [Famiitry/Aws-deploy](https://github.com/Famiitry/Aws-deploy)<br>
-<!--RECENT_ACTIVITY:end-->
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Famiitry&theme=tokyo-night&bg_color=0f0c29&color=c084fc&line=7c3aed&point=a78bfa&area=true&hide_border=true&area_color=302b63" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-### ◈ &nbsp; C O N N E C T I O N S &nbsp; ◈
-
-<div align="center">
-
-
-<br>
-
-<a href="https://www.linkedin.com/in/daniel-gualan-77ab81352/" target="_blank">
-  <img src="https://img.shields.io/badge/─────%20LinkedIn%20─────-Professional%20Profile-302b63?style=for-the-badge&logo=linkedin&logoColor=c084fc&labelColor=0f0c29&color=7c3aed" height="36" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:daniel.gl97@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/─────%20Email%20─────-Direct%20Contact-302b63?style=for-the-badge&logo=microsoftoutlook&logoColor=c084fc&labelColor=0f0c29&color=4f46e5" height="36" />
-</a>
+<a href="https://www.linkedin.com/in/daniel-gualan-77ab81352/"><img src="https://img.shields.io/badge/─────%20TRANSMIT%20MESSAGE%20─────-050505?style=for-the-badge&logo=linkedin&logoColor=F5F5F5&labelColor=050505&color=E50914" height="36" /></a>
 
 <br><br>
 
 <img src="https://img.shields.io/github/followers/Famiitry?style=social" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Famiitry&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Famiitry&color=E50914&style=flat-square&label=PROFILE+VIEWS" />
+
+<br><br>
+
+```
+> connection_terminated.
+```
 
 </div>
-
----
