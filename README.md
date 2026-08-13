@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gualan-77ab81352/)
 [![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:daniel.gl97@hotmail.com)
-![Available](https://img.shields.io/badge/Available%20for%20Hire-E50914?style=for-the-badge)
+
 
 </div>
 
