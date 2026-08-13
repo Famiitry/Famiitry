@@ -3620,11 +3620,11 @@
   </g>
 
   <g text-anchor="middle" font-family="JetBrains Mono, monospace">
-    <text x="600" y="362" font-size="12" fill="#8a8a8a">whoami &gt; daniel_gualan // status: available_for_hire</text>
+    <text x="600" y="362" font-size="14" fill="#8a8a8a">whoami &gt; daniel_gualan // status: available_for_hire</text>
   </g>
 
   <g font-family="JetBrains Mono, monospace" text-anchor="middle">
-    <text x="600" y="42" font-size="13" fill="#8a8a8a" opacity="0.8">&gt; global_reach // remote-ready // open worldwide</text>
+    <text x="600" y="42" font-size="15" fill="#8a8a8a" opacity="0.8">&gt; global_reach // remote-ready // open worldwide</text>
   </g>
 
   <g font-family="JetBrains Mono, monospace" font-size="11" fill="#8a8a8a">
@@ -3639,9 +3639,9 @@
   <!-- ===== SECTION 2: ABOUT ===== -->
   <g font-family="JetBrains Mono, monospace">
     <text x="60" y="800" font-size="15" fill="#E50914" font-weight="500">&gt; cat about.txt</text>
-    <text x="60" y="830" font-size="13" fill="#F5F5F5">I'm a software engineering student building production-shaped systems —</text>
-    <text x="60" y="853" font-size="13" fill="#F5F5F5">REST APIs, offline-sync platforms, and hardware-connected apps —</text>
-    <text x="60" y="876" font-size="13" fill="#F5F5F5">focused on backend architecture, data integrity, and clean design.</text>
+    <text x="60" y="830" font-size="16" fill="#F5F5F5">I'm a software engineering student building production-shaped systems —</text>
+    <text x="60" y="853" font-size="16" fill="#F5F5F5">REST APIs, offline-sync platforms, and hardware-connected apps —</text>
+    <text x="60" y="876" font-size="16" fill="#F5F5F5">focused on backend architecture, data integrity, and clean design.</text>
   </g>
 
   <g stroke="#1a1a1a" stroke-width="1">
@@ -3652,48 +3652,48 @@
   <g font-family="JetBrains Mono, monospace">
     <text x="60" y="990" font-size="15" fill="#E50914" font-weight="500">&gt; grep -r "skills" ./system/</text>
 
-    <g font-size="13" fill="#F5F5F5">
-      <rect x="60" y="1015" width="86" height="30" fill="none" stroke="#333" rx="2"/>
-      <text x="103" y="1034" text-anchor="middle">Java</text>
+    <g font-size="15" fill="#F5F5F5">
+      <rect x="60" y="1015" width="94" height="32" fill="none" stroke="#333" rx="2"/>
+      <text x="107" y="1036" text-anchor="middle">Java</text>
 
-      <rect x="156" y="1015" width="120" height="30" fill="none" stroke="#333" rx="2"/>
-      <text x="216" y="1034" text-anchor="middle">TypeScript</text>
+      <rect x="166" y="1015" width="132" height="32" fill="none" stroke="#333" rx="2"/>
+      <text x="232" y="1036" text-anchor="middle">TypeScript</text>
 
-      <rect x="286" y="1015" width="98" height="30" fill="none" stroke="#333" rx="2"/>
-      <text x="335" y="1034" text-anchor="middle">Kotlin</text>
+      <rect x="310" y="1015" width="106" height="32" fill="none" stroke="#333" rx="2"/>
+      <text x="363" y="1036" text-anchor="middle">Kotlin</text>
 
-      <rect x="394" y="1015" width="140" height="30" fill="none" stroke="#333" rx="2"/>
-      <text x="464" y="1034" text-anchor="middle">Spring Boot</text>
+      <rect x="428" y="1015" width="152" height="32" fill="none" stroke="#333" rx="2"/>
+      <text x="504" y="1036" text-anchor="middle">Spring Boot</text>
 
-      <rect x="544" y="1015" width="106" height="30" fill="none" stroke="#333" rx="2"/>
-      <text x="597" y="1034" text-anchor="middle">NestJS</text>
+      <rect x="592" y="1015" width="114" height="32" fill="none" stroke="#333" rx="2"/>
+      <text x="649" y="1036" text-anchor="middle">NestJS</text>
 
-      <rect x="660" y="1015" width="126" height="30" fill="none" stroke="#333" rx="2"/>
-      <text x="723" y="1034" text-anchor="middle">.NET Core</text>
+      <rect x="718" y="1015" width="138" height="32" fill="none" stroke="#333" rx="2"/>
+      <text x="787" y="1036" text-anchor="middle">.NET Core</text>
 
-      <rect x="796" y="1015" width="98" height="30" fill="none" stroke="#333" rx="2"/>
-      <text x="845" y="1034" text-anchor="middle">React</text>
+      <rect x="868" y="1015" width="106" height="32" fill="none" stroke="#333" rx="2"/>
+      <text x="921" y="1036" text-anchor="middle">React</text>
 
-      <rect x="904" y="1015" width="112" height="30" fill="none" stroke="#333" rx="2"/>
-      <text x="960" y="1034" text-anchor="middle">Next.js</text>
+      <rect x="986" y="1015" width="122" height="32" fill="none" stroke="#333" rx="2"/>
+      <text x="1047" y="1036" text-anchor="middle">Next.js</text>
 
-      <rect x="1026" y="1015" width="114" height="30" fill="none" stroke="#333" rx="2"/>
-      <text x="1083" y="1034" text-anchor="middle">Android</text>
+      <rect x="60" y="1063" width="122" height="32" fill="none" stroke="#333" rx="2"/>
+      <text x="121" y="1084" text-anchor="middle">Android</text>
 
-      <rect x="60" y="1055" width="130" height="30" fill="none" stroke="#333" rx="2"/>
-      <text x="125" y="1074" text-anchor="middle">PostgreSQL</text>
+      <rect x="194" y="1063" width="142" height="32" fill="none" stroke="#333" rx="2"/>
+      <text x="265" y="1084" text-anchor="middle">PostgreSQL</text>
 
-      <rect x="200" y="1055" width="130" height="30" fill="none" stroke="#333" rx="2"/>
-      <text x="265" y="1074" text-anchor="middle">SQL Server</text>
+      <rect x="348" y="1063" width="142" height="32" fill="none" stroke="#333" rx="2"/>
+      <text x="419" y="1084" text-anchor="middle">SQL Server</text>
 
-      <rect x="340" y="1055" width="98" height="30" fill="none" stroke="#333" rx="2"/>
-      <text x="389" y="1074" text-anchor="middle">Docker</text>
+      <rect x="502" y="1063" width="106" height="32" fill="none" stroke="#333" rx="2"/>
+      <text x="555" y="1084" text-anchor="middle">Docker</text>
 
-      <rect x="448" y="1055" width="90" height="30" fill="none" stroke="#333" rx="2"/>
-      <text x="493" y="1074" text-anchor="middle">Linux</text>
+      <rect x="620" y="1063" width="98" height="32" fill="none" stroke="#333" rx="2"/>
+      <text x="669" y="1084" text-anchor="middle">Linux</text>
 
-      <rect x="548" y="1055" width="80" height="30" fill="none" stroke="#333" rx="2"/>
-      <text x="588" y="1074" text-anchor="middle">Git</text>
+      <rect x="730" y="1063" width="88" height="32" fill="none" stroke="#333" rx="2"/>
+      <text x="774" y="1084" text-anchor="middle">Git</text>
     </g>
   </g>
 
@@ -3707,13 +3707,13 @@
 
     <rect x="60" y="1215" width="1080" height="90" fill="none" stroke="#333" rx="2"/>
     <text x="80" y="1245" font-size="14" fill="#E50914">[ 01 ] Quingeo HCE</text>
-    <text x="80" y="1270" font-size="12" fill="#8a8a8a">Clinical records system built for real-world unreliable connectivity — works offline, syncs when back online.</text>
-    <text x="80" y="1290" font-size="12" fill="#8a8a8a">react · typescript · spring-boot · mysql · indexeddb</text>
+    <text x="80" y="1270" font-size="14" fill="#8a8a8a">Clinical records system built for real-world unreliable connectivity — works offline, syncs when back online.</text>
+    <text x="80" y="1290" font-size="13" fill="#8a8a8a">react · typescript · spring-boot · mysql · indexeddb</text>
 
     <rect x="60" y="1325" width="1080" height="90" fill="none" stroke="#333" rx="2"/>
     <text x="80" y="1355" font-size="14" fill="#E50914">[ 02 ] HidroByte</text>
-    <text x="80" y="1380" font-size="12" fill="#8a8a8a">Hydration-tracking app pairing a mobile client with an Arduino-based hardware sensor.</text>
-    <text x="80" y="1400" font-size="12" fill="#8a8a8a">kotlin · android · arduino</text>
+    <text x="80" y="1380" font-size="14" fill="#8a8a8a">Hydration-tracking app pairing a mobile client with an Arduino-based hardware sensor.</text>
+    <text x="80" y="1400" font-size="13" fill="#8a8a8a">kotlin · android · arduino</text>
   </g>
 
   <g stroke="#1a1a1a" stroke-width="1">
@@ -3723,13 +3723,13 @@
   <!-- ===== SECTION 5: STATUS / CLOSE ===== -->
   <g font-family="JetBrains Mono, monospace" text-anchor="middle">
     <text x="600" y="1530" font-size="15" fill="#E50914" font-weight="500">&gt; cat status.txt</text>
-    <text x="600" y="1565" font-size="13" fill="#F5F5F5">Building reliable backend systems and full-stack applications,</text>
-    <text x="600" y="1588" font-size="13" fill="#F5F5F5">one commit at a time.</text>
+    <text x="600" y="1565" font-size="16" fill="#F5F5F5">Building reliable backend systems and full-stack applications,</text>
+    <text x="600" y="1588" font-size="16" fill="#F5F5F5">one commit at a time.</text>
     <text x="600" y="1620" font-size="14" fill="#F5F5F5" font-weight="500">status: open to freelance contracts AND full-time roles</text>
   </g>
 
   <g font-family="JetBrains Mono, monospace" text-anchor="middle">
-    <text x="600" y="1670" font-size="13" fill="#8a8a8a">&gt; establishing_contact...</text>
+    <text x="600" y="1670" font-size="14" fill="#8a8a8a">&gt; establishing_contact...</text>
   </g>
 
   <g stroke="#E50914" stroke-width="2" fill="none" opacity="0.8">
