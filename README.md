@@ -33,12 +33,6 @@ Software engineering student building **production-shaped systems** — REST API
   <img src="assets/orbits.svg" width="100%" alt="Tech stack as a solar system: Java, TypeScript, Kotlin, Spring Boot, NestJS, .NET Core, React, Next.js, Android, PostgreSQL, SQL Server, Docker, Linux, Git, GitLab">
 </p>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,ts,kotlin,spring,nestjs,dotnet,react,nextjs,androidstudio,postgres,docker,linux,git,gitlab&theme=dark&perline=14" alt="Tech icons">
-
-</div>
-
 <img src="assets/divider.svg" width="100%" alt="">
 
 ## `🚀 $ ls missions/ --featured`
@@ -53,7 +47,6 @@ Software engineering student building **production-shaped systems** — REST API
       <sub>Clinical records system built for unreliable connectivity — it has to stay usable when the network drops mid-consultation.</sub><br><br>
       <code>objective</code> <sub>offline-first EHR that never loses a record</sub><br>
       <code>outcome&nbsp;&nbsp;</code> <sub>auto-sync on reconnect · JWT-hardened · documented C4 architecture</sub><br><br>
-      <img src="https://skillicons.dev/icons?i=react,ts,spring,mysql&theme=dark" alt="React, TypeScript, Spring Boot, MySQL"><br>
       <sub><code>React · TypeScript · Spring Boot · MySQL · IndexedDB</code></sub><br><br>
       <sub><code>status: ● deployed</code></sub>
     </td>
@@ -63,7 +56,6 @@ Software engineering student building **production-shaped systems** — REST API
       <sub>Effortless hydration tracking — no manual logging, tied to real physical intake.</sub><br><br>
       <code>objective</code> <sub>measure what you actually drink, automatically</sub><br>
       <code>outcome&nbsp;&nbsp;</code> <sub>Android app + Arduino sensor · daily/monthly/yearly stats · reminders</sub><br><br>
-      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,arduino&theme=dark" alt="Kotlin, Android, Arduino"><br>
       <sub><code>Kotlin · Android · Arduino</code></sub><br><br>
       <sub><code>status: ● operational</code></sub>
     </td>

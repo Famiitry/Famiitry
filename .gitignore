@@ -2,3 +2,4 @@
 # Local sensitive files
 github-recovery-codes*.txt
 
+.DS_Store
