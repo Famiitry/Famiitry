@@ -1,86 +1,94 @@
 <div align="center">
 
-# Daniel Gualán
+<a href="https://github.com/Famiitry">
+  <img src="assets/banner.svg" width="100%" alt="Daniel Gualán — Software Engineer · Backend & Full-Stack">
+</a>
 
-**Software Engineer · Backend & Full-Stack Development**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+reliable+backend+systems+%F0%9F%9B%B0%EF%B8%8F;REST+APIs+%C2%B7+offline-sync+%C2%B7+clean+architecture;From+Earth+to+production+%E2%80%94+one+deploy+at+a+time;Open+to+freelance+%26+full-time+missions+%E2%9C%A6" alt="Typing animation">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=E50914&center=true&vCenter=true&width=550&lines=Building+reliable+backend+systems;REST+APIs+%C2%B7+offline-sync+%C2%B7+clean+architecture;Open+to+freelance+%26+full-time+roles" />
+<a href="https://www.linkedin.com/in/daniel-gualan-77ab81352/"><img src="https://img.shields.io/badge/LinkedIn-0b0d22?style=for-the-badge&logo=linkedin&logoColor=67e8f9" alt="LinkedIn"></a>&nbsp;
+<a href="mailto:daniel.gl97@hotmail.com"><img src="https://img.shields.io/badge/Email-0b0d22?style=for-the-badge&logo=protonmail&logoColor=f472b6" alt="Email"></a>&nbsp;
+<a href="https://github.com/Famiitry"><img src="https://img.shields.io/badge/GitHub-0b0d22?style=for-the-badge&logo=github&logoColor=a78bfa" alt="GitHub"></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gualan-77ab81352/)
-[![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:daniel.gl97@hotmail.com)
-
+<img src="https://komarev.com/ghpvc/?username=Famiitry&color=a78bfa&style=flat-square&label=signals+received" alt="Profile views">
+<img src="https://img.shields.io/github/followers/Famiitry?style=flat-square&color=0b0d22&labelColor=a78bfa&label=crew" alt="Followers">
 
 </div>
 
-<br>
+<img src="assets/divider.svg" width="100%" alt="">
 
-## About
+## `🛰️ $ whoami`
 
-Software engineering student building production-shaped systems — REST APIs, offline-sync platforms, and hardware-connected apps — focused on backend architecture, data integrity, and clean design.
+<p align="center">
+  <img src="assets/whoami.svg" width="100%" alt="Terminal: Daniel Gualán, Software Engineer. REST APIs, offline-sync, hardware-linked apps. Open to freelance and full-time roles.">
+</p>
 
-Open to freelance contracts and full-time opportunities.
+Software engineering student building **production-shaped systems** — REST APIs, offline-sync platforms and hardware-connected apps — focused on backend architecture, data integrity and clean design.
 
-<br>
+<img src="assets/divider.svg" width="100%" alt="">
 
-## Featured Work
+## `🪐 $ cat stack.system`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Quingeo HCE
-
-**Goal**
-Clinical records system built for real-world unreliable connectivity — needed to stay usable when the network drops mid-consultation.
-
-**Tools**
-`React` `TypeScript` `Spring Boot` `MySQL` `IndexedDB`
-
-**Result**
-Fully functional offline-first app that syncs automatically once back online, with JWT-hardened security and a documented C4 architecture.
-
-</td>
-<td width="50%" valign="top">
-
-### HidroByte
-
-**Goal**
-Give users an effortless way to track hydration — no manual logging, tied to real physical intake.
-
-**Tools**
-`Kotlin` `Android` `Arduino`
-
-**Result**
-Mobile app paired with an Arduino-based hardware sensor for automatic intake logging, with daily/monthly/yearly stats and reminders.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Skills
-
-![Java](https://img.shields.io/badge/Java-050505?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-050505?style=flat-square&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-050505?style=flat-square&logo=kotlin&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring%20Boot-050505?style=flat-square&logo=springboot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-050505?style=flat-square&logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET%20Core-050505?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-050505?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-050505?style=flat-square&logo=nextdotjs&logoColor=white)
-![Android](https://img.shields.io/badge/Android-050505?style=flat-square&logo=android&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050505?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-050505?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-050505?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-050505?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-050505?style=flat-square&logo=git&logoColor=white)
-
-<br>
+<p align="center">
+  <img src="assets/orbits.svg" width="100%" alt="Tech stack as a solar system: Java, TypeScript, Kotlin, Spring Boot, NestJS, .NET Core, React, Next.js, Android, PostgreSQL, SQL Server, Docker, Linux, Git, GitLab">
+</p>
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/Famiitry?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=Famiitry&color=E50914&style=flat-square&label=Profile+Views)
+<img src="https://skillicons.dev/icons?i=java,ts,kotlin,spring,nestjs,dotnet,react,nextjs,androidstudio,postgres,docker,linux,git,gitlab&theme=dark&perline=14" alt="Tech icons">
 
 </div>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## `🚀 $ ls missions/ --featured`
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <code>◉ MISSION 01 · quingeo-hce/</code><br><br>
+      <b>🩺 Quingeo HCE</b><br>
+      <sub>Clinical records system built for unreliable connectivity — it has to stay usable when the network drops mid-consultation.</sub><br><br>
+      <code>objective</code> <sub>offline-first EHR that never loses a record</sub><br>
+      <code>outcome&nbsp;&nbsp;</code> <sub>auto-sync on reconnect · JWT-hardened · documented C4 architecture</sub><br><br>
+      <img src="https://skillicons.dev/icons?i=react,ts,spring,mysql&theme=dark" alt="React, TypeScript, Spring Boot, MySQL"><br>
+      <sub><code>React · TypeScript · Spring Boot · MySQL · IndexedDB</code></sub><br><br>
+      <sub><code>status: ● deployed</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <code>◉ MISSION 02 · hidrobyte/</code><br><br>
+      <b>💧 HidroByte</b><br>
+      <sub>Effortless hydration tracking — no manual logging, tied to real physical intake.</sub><br><br>
+      <code>objective</code> <sub>measure what you actually drink, automatically</sub><br>
+      <code>outcome&nbsp;&nbsp;</code> <sub>Android app + Arduino sensor · daily/monthly/yearly stats · reminders</sub><br><br>
+      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,arduino&theme=dark" alt="Kotlin, Android, Arduino"><br>
+      <sub><code>Kotlin · Android · Arduino</code></sub><br><br>
+      <sub><code>status: ● operational</code></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## `📡 $ ping --open-channel`
+
+<div align="center">
+
+**Open to freelance contracts and full-time opportunities.**<br>
+<sub>Got a mission that needs a solid backend? Send a signal.</sub>
+
+<br>
+
+<a href="mailto:daniel.gl97@hotmail.com"><img src="https://img.shields.io/badge/✦_Send_a_signal-a78bfa?style=for-the-badge&logoColor=05060f" alt="Send a signal"></a>
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="End of transmission">
+</p>
